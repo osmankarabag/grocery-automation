@@ -1,0 +1,27 @@
+123 nolu kisinin bilgileri =>
+
+Kiþinin cari numarasi => 123
+Kiþinin adi soyadi => osman
+Kiþinin telefon numrasi => 121
+Kiþinin e maili => a@erbakan.edu.tr
+Kiþinin ev adresi => konya
+Kiþinin borcu => 1200.0
+*********************************
+123 nolu kisinin bilgileri =>
+
+Kiþinin cari numarasi => 123
+Kiþinin adi soyadi => osman
+Kiþinin telefon numrasi => 121
+Kiþinin e maili => a@erbakan.edu.tr
+Kiþinin ev adresi => konya
+Kiþinin borcu => 1200.0
+*********************************
+424 nolu kisinin bilgileri =>
+
+Kiþinin cari numarasi => 424
+Kiþinin adi soyadi => kamil
+Kiþinin telefon numrasi => 13578
+Kiþinin e maili => b@gmail.com
+Kiþinin ev adresi => konyameram
+Kiþinin borcu => 1200.0
+*********************************
